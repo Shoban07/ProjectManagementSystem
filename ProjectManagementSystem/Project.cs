@@ -13,6 +13,7 @@ namespace ProjectManagementSystem
      #region properties
 
         #region Project Attributes
+
         private string _projectName;
             public string ProjectName
             {
@@ -43,14 +44,14 @@ namespace ProjectManagementSystem
         #endregion
 
         #region ProjectTaskAttributes
-        private List<Task> _taskList;
-        public List<Task> TaskList
-        {
-            get { return _taskList; }
-            set { _taskList = value; }
-        }
+            private List<Task> _taskList;
+            public List<Task> TaskList
+            {
+                get { return _taskList; }
+                set { _taskList = value; }
+            }
         #endregion
 
-        #endregion
+      #endregion
     }
 }
