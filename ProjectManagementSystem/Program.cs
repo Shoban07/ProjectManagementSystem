@@ -6,7 +6,7 @@ namespace ProjectManagementSystem
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello  PRMS World!");
+            Console.WriteLine("Hello  PRMSmpWorld!");
         }
     }
 }

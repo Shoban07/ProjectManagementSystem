@@ -1,7 +1,11 @@
 ﻿using System;
 namespace ProjectManagementSystem
 {
-    public enum EmptyEnumeration
+    public enum Status
     {
+        Active,
+        InProgress,
+        InHold,
+        Completed
     }
 }
