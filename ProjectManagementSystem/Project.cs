@@ -52,6 +52,34 @@ namespace ProjectManagementSystem
             }
         #endregion
 
-      #endregion
+        #region functionsforTaskCalculation
+
+        /*
+         * Method 1: function to calculate total task hours
+         */
+        public int TaskHoursCalculation()
+        {
+            int _taskHours = 0;
+
+            foreach(Task task in TaskList)
+            {
+                _taskHours += task.TaskTimeAllotted;
+            }
+
+            return _taskHours;
+        }
+
+
+        /*
+         * Method 2: function to predict project is deliverable or not based on given time
+         */
+        public Boolean PredictedProjectDelivery()
+        {
+
+            return HoursAllotted == TaskHoursCalculation();
+        }
+        #endregion
+
+        #endregion
     }
 }
