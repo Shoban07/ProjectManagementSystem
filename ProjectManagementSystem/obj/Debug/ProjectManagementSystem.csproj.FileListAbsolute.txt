@@ -1,0 +1,5 @@
+/Users/rsvshoban/Documents/KyrosAssign/ProjectManagementSystem/ProjectManagementSystem/bin/Debug/ProjectManagementSystem.exe
+/Users/rsvshoban/Documents/KyrosAssign/ProjectManagementSystem/ProjectManagementSystem/bin/Debug/ProjectManagementSystem.pdb
+/Users/rsvshoban/Documents/KyrosAssign/ProjectManagementSystem/ProjectManagementSystem/obj/Debug/ProjectManagementSystem.csproj.CoreCompileInputs.cache
+/Users/rsvshoban/Documents/KyrosAssign/ProjectManagementSystem/ProjectManagementSystem/obj/Debug/ProjectManagementSystem.exe
+/Users/rsvshoban/Documents/KyrosAssign/ProjectManagementSystem/ProjectManagementSystem/obj/Debug/ProjectManagementSystem.pdb

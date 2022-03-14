@@ -76,7 +76,8 @@ namespace ProjectManagementSystem
         public Boolean PredictedProjectDelivery()
         {
 
-            return HoursAllotted == TaskHoursCalculation();
+            // Time required for sequence of task to be completed shoud be lesser than or equal to the project time allotted
+            return TaskHoursCalculation() <= HoursAllotted;
         }
         #endregion
 

@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{C7BC0C19-04CE-4976-A753-1B33E361D8F4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectManagementSystem/Status.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectManagementSystem/Project.cs">
     <Files>
       <File FileName="ProjectManagementSystem/Program.cs" Line="9" Column="45" />
-      <File FileName="ProjectManagementSystem/Project.cs" Line="39" Column="20" />
       <File FileName="ProjectManagementSystem/Task.cs" />
       <File FileName="ProjectManagementSystem/ResourceAvailable.cs" />
-      <File FileName="ProjectManagementSystem/Status.cs" Line="1" Column="1" />
+      <File FileName="ProjectManagementSystem/Status.cs" Line="15" Column="1" />
+      <File FileName="ProjectManagementSystem/Project.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ProjectManagementSystem" expanded="True">
             <Node name="ProjectManagementSystem" expanded="True">
-              <Node name="Status.cs" selected="True" />
+              <Node name="Project.cs" selected="True" />
             </Node>
           </Node>
         </State>
