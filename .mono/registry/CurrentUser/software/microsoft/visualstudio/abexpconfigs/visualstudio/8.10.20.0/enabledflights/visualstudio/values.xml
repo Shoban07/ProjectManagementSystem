@@ -1,0 +1,10 @@
+<values>
+<value name="vsformacaa"
+type="string">false</value>
+<value name="VSIC_SuggestionHintsInsertions_TopRightJustified"
+type="string">true</value>
+<value name="Roslyn.ToggleBlockComment.NoUsed"
+type="string">true</value>
+<value name="vs-welcome"
+type="string">false</value>
+</values>

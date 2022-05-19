@@ -1,0 +1,400 @@
+ * * * * * * * * * * * * * * * * * *
+   info 2022-04-11 15:08:57.711      front   main    786  14792                                  main - * AnyDesk MAC Startup *
+   info 2022-04-11 15:08:57.712      front   main    786  14792                                  main - * Version 6.5.0 (mac_release_6.5.0 dadcf78bae5d2c2d29ae3846eb496312ea67e55a)
+   info 2022-04-11 15:08:57.712      front   main    786  14792                                  main - * Build 20220315130317
+   info 2022-04-11 15:08:57.712      front   main    786  14792                                  main - * Prefix ad
+   info 2022-04-11 15:08:57.715      front   main    786  14792                                  main - * OS Version 11.5.1 (Build 20G80)
+   info 2022-04-11 15:08:57.715      front   main    786  14792                                  main - * Launch path /Applications/AnyDesk.app
+   info 2022-04-11 15:08:57.715      front   main    786  14792                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2022-04-11 15:08:57.715      front   main    786  14792                                  main - 
+   info 2022-04-11 15:08:57.715      front   main    786  14792                                  main - ppid: 1 uid: 501
+   info 2022-04-11 15:08:57.715      front   main    786  14792                                  main - process maxfiles 256 : -1
+   info 2022-04-11 15:08:57.715      front   main    786  14792                                  main - raising RLIMIT_NOFILE to 10240
+   info 2022-04-11 15:08:57.715      front   main    786  14792                         impl_selector - using neon
+  error 2022-04-11 15:08:57.826      front   main    786  14792         mac_app.helper_tool_interface - Global files not found.
+   info 2022-04-11 15:08:57.827      front   main    786  14792                   fiber.ipc_namespace - Global: no
+   info 2022-04-11 15:08:57.827      front   main    786  14792                           AppDelegate - Starting a local service.
+warning 2022-04-11 15:08:57.827      front   main    786  14792                   fiber.ipc_namespace - Local namespace without service.
+ * * * * * * * * * * * * * * * * * *
+   info 2022-04-11 15:08:57.838       lsvc   main    790  14874                                  main - * AnyDesk MAC Startup *
+   info 2022-04-11 15:08:57.839       lsvc   main    790  14874                                  main - * Version 6.5.0 (mac_release_6.5.0 dadcf78bae5d2c2d29ae3846eb496312ea67e55a)
+   info 2022-04-11 15:08:57.839       lsvc   main    790  14874                                  main - * Build 20220315130317
+   info 2022-04-11 15:08:57.839       lsvc   main    790  14874                                  main - * Prefix ad
+   info 2022-04-11 15:08:57.841       lsvc   main    790  14874                                  main - * OS Version 11.5.1 (Build 20G80)
+   info 2022-04-11 15:08:57.841       lsvc   main    790  14874                                  main - * Launch path /Applications/AnyDesk.app
+   info 2022-04-11 15:08:57.841       lsvc   main    790  14874                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2022-04-11 15:08:57.841       lsvc   main    790  14874                                  main - 
+   info 2022-04-11 15:08:57.841       lsvc   main    790  14874                                  main - ppid: 786 uid: 501
+   info 2022-04-11 15:08:57.841       lsvc   main    790  14874                                  main - process maxfiles 10240 : -1
+   info 2022-04-11 15:08:57.841       lsvc   main    790  14874                         impl_selector - using neon
+   info 2022-04-11 15:08:57.841       lsvc   main    790  14874                       app.common_path - initialized user = /Users/rsvshoban/.anydesk, system = /Users/rsvshoban/.anydesk
+warning 2022-04-11 15:08:57.841       lsvc   main    790  14874                       app.common_path - Can't symlink /Users/rsvshoban/Movies/anydesk (0)
+   info 2022-04-11 15:08:57.841       lsvc   main    790  14874                      main.run_service - Starting local service.
+   info 2022-04-11 15:08:57.842       lsvc   main    790  14874          base.data.config_application - Adding GPO defaults layer.
+   info 2022-04-11 15:08:57.842       lsvc   main    790  14874          base.data.config_application - Adding GPO overrides layer.
+   info 2022-04-11 15:08:57.842       lsvc   main    790  14874            permission_profile_manager - Migrating V0 -> V1
+   info 2022-04-11 15:08:57.843       lsvc   main    790  14874                       fiber.scheduler - Spawning root fiber 1.
+   info 2022-04-11 15:08:57.843       lsvc   main    790  14874                       fiber.scheduler - Scheduler started.
+   info 2022-04-11 15:08:57.843       lsvc   main    790  14874    1                      app.service - Opening the IPC namespace.
+   info 2022-04-11 15:08:57.843       lsvc   main    790  14874    1              fiber.ipc_namespace - Global: no
+   info 2022-04-11 15:08:57.843       lsvc   main    790  14874    1                      app.service - Logging into the IPC namespace.
+   info 2022-04-11 15:08:57.843       lsvc   main    790  14874    1                      app.service - Starting to supervise the IPC namespace.
+   info 2022-04-11 15:08:57.843       lsvc   main    790  14874    1                      app.service - Starting the connector.
+   info 2022-04-11 15:08:57.843       lsvc   main    790  14874    1            anynet.connection_mgr - Generating a new certificate and key.
+   info 2022-04-11 15:08:57.919       lsvc   main    790  14874    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2022-04-11 15:08:57.919       lsvc   main    790  14874    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1                      app.service - Setting up the listen sockets.
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1                      app.service - Service startup completed.
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1            app.discovery_manager - Starting Discovery.
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1                   ad.wol_service - Starting WOL service.
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2022-04-11 15:08:57.920       lsvc   main    790  14874    1                      app.service - Waiting for messages.
+   info 2022-04-11 15:08:57.921       lsvc   main    790  14874    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2022-04-11 15:08:57.921       lsvc   main    790  14874    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-04-11 15:08:57.921       lsvc   main    790  14874    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2022-04-11 15:08:57.921       lsvc   main    790  14874    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2022-04-11 15:08:57.921       lsvc   main    790  14874    5                anynet.any_socket - Listen fiber started.
+   info 2022-04-11 15:08:57.921       lsvc   main    790  14874    6                      anynet.conn - Request before connect. Queueing.
+   info 2022-04-11 15:08:57.921       lsvc   main    790  14874    8           anynet.relay_connector - Relay connector started.
+   info 2022-04-11 15:08:57.921       lsvc   main    790  14874    8           anynet.relay_connector - Start proxy search.
+   info 2022-04-11 15:08:57.922       lsvc   main    790  14874    8           anynet.relay_connector - Connecting to relay boot.net.anydesk.com (1/1)
+   info 2022-04-11 15:08:57.922       lsvc   main    790  14874    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-04-11 15:08:57.922       lsvc   main    790  14874    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-04-11 15:08:57.922       lsvc   main    790  14874    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-04-11 15:08:57.929      front   main    786  14792                       app.common_path - initialized user = /Users/rsvshoban/.anydesk, system = /Users/rsvshoban/.anydesk
+   info 2022-04-11 15:08:57.929      front   main    786  14792                           AppDelegate - Starting frontend (6).
+   info 2022-04-11 15:08:57.930      front   main    786  14792          base.data.config_application - Adding GPO defaults layer.
+   info 2022-04-11 15:08:57.930      front   main    786  14792          base.data.config_application - Adding GPO overrides layer.
+   info 2022-04-11 15:08:57.930      front   main    786  14792                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2022-04-11 15:08:57.930      front   main    786  14792                           gui.gui_app - Using high-resolution bitmaps.
+   info 2022-04-11 15:08:57.930      front   main    786  14792                       base.signal.hub - 8 threads.
+   info 2022-04-11 15:08:57.936       lsvc   main    790  14874    8           anynet.relay_connector - Using IPv4: 92.223.88.232
+   info 2022-04-11 15:08:57.947      front   timr    786  14878          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-04-11 15:08:57.947      front   ctrl    786  14879                      mac_app.frontend - Frontend startup.
+   info 2022-04-11 15:08:57.947      front   ctrl    786  14879                      mac_app.frontend - Logging the frontend in.
+   info 2022-04-11 15:08:57.948       lsvc   main    790  14874    1                      app.service - Process start: 786 (frontend).
+   info 2022-04-11 15:08:57.948       lsvc   main    790  14874    1           anynet.relay_connector - Short timeouts enabled.
+   info 2022-04-11 15:08:57.953       lsvc   main    790  14874    1                      app.service - New IPC connection.
+   info 2022-04-11 15:08:57.953       lsvc   main    790  14874    1                  fiber.scheduler - Spawning child fiber 9 (parent 1).
+   info 2022-04-11 15:08:57.953       lsvc   main    790  14874    9                      app.service - Creating an IPC accept socket.
+   info 2022-04-11 15:08:57.954       lsvc   main    790  14874    9                      app.service - Connected to 786 (frontend).
+   info 2022-04-11 15:08:57.954       lsvc   main    790  14874    9                      app.service - Process login detected.
+   info 2022-04-11 15:08:57.954       lsvc   main    790  14874    9                  fiber.scheduler - Spawning child fiber 10 (parent 9).
+   info 2022-04-11 15:08:57.963      front   ctrl    786  14879                     base.monitor_info - 1 active monitor(s) found.
+  error 2022-04-11 15:08:58.024      front   main    786  14792         mac_app.helper_tool_interface - Global files not found.
+   info 2022-04-11 15:08:58.026      front   main    786  14792               gui.request_permissions - Accessibility permission: 0
+   info 2022-04-11 15:08:58.026      front   main    786  14792               gui.request_permissions - Screen Recording permission: 0
+   info 2022-04-11 15:08:58.099       lsvc   main    790  14874    8                  fiber.scheduler - Spawning root fiber 11.
+   info 2022-04-11 15:08:58.441       lsvc   main    790  14874    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-04-11 15:08:58.442       lsvc   main    790  14874    8                  fiber.scheduler - Spawning root fiber 12.
+   info 2022-04-11 15:08:58.453       lsvc   main    790  14874    8                        handshake - Using protocol version 3.
+   info 2022-04-11 15:08:58.633       lsvc   main    790  14874                       fiber.scheduler - Fiber 8 requested quit of fiber 12.
+   info 2022-04-11 15:08:58.634       lsvc   main    790  14874   12                      fiber.fiber - Received quit.
+   info 2022-04-11 15:08:58.634       lsvc   main    790  14874                       fiber.scheduler - Fiber 12 terminated.
+   info 2022-04-11 15:08:58.634       lsvc   main    790  14874                       fiber.scheduler - Fiber 8 requested quit of fiber 11.
+   info 2022-04-11 15:08:58.634       lsvc   main    790  14874   11                      fiber.fiber - Received quit.
+   info 2022-04-11 15:08:58.634       lsvc   main    790  14874                       fiber.scheduler - Fiber 11 terminated.
+   info 2022-04-11 15:08:58.634       lsvc   main    790  14874    8           anynet.relay_connector - Connection terminated: anynet_invalid_zone
+   info 2022-04-11 15:08:58.634       lsvc   main    790  14874    8           anynet.relay_connector - Received a new server list (10 servers)
+   info 2022-04-11 15:08:58.635       lsvc   main    790  14874    8           anynet.relay_connector - Connecting to relay relay-bcaadb4c.net.anydesk.com (1/10)
+   info 2022-04-11 15:08:58.635       lsvc   main    790  14874    8           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-04-11 15:08:58.635       lsvc   main    790  14874    8           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-04-11 15:08:58.635       lsvc   main    790  14874    8           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-04-11 15:08:58.642       lsvc   main    790  14874    8           anynet.relay_connector - Using IPv4: 5.9.71.93
+   info 2022-04-11 15:08:58.814       lsvc   main    790  14874    8                  fiber.scheduler - Spawning root fiber 13.
+   info 2022-04-11 15:08:59.158       lsvc   main    790  14874    8           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-04-11 15:08:59.158       lsvc   main    790  14874    8                  fiber.scheduler - Spawning root fiber 14.
+   info 2022-04-11 15:08:59.159       lsvc   main    790  14874    8                        handshake - Using protocol version 3.
+   info 2022-04-11 15:08:59.345       lsvc   main    790  14874    8           anynet.relay_connector - Connection established.
+   info 2022-04-11 15:08:59.345       lsvc   main    790  14874    8           anynet.relay_connector - Relay connector stopped.
+   info 2022-04-11 15:08:59.345       lsvc   main    790  14874                       fiber.scheduler - Fiber 8 terminated.
+   info 2022-04-11 15:08:59.348       lsvc   main    790  14874    3           anynet.main_relay_conn - Network ID: main
+   info 2022-04-11 15:08:59.349       lsvc   main    790  14874    3                anynet.relay_conn - External address: 183.82.177.120:5829.
+   info 2022-04-11 15:08:59.350       lsvc   main    790  14874    3           anynet.main_relay_conn - Reporting system information.
+   info 2022-04-11 15:08:59.350       lsvc   main    790  14874    3           anynet.main_relay_conn - Main relay ID: bcaadb4c
+   info 2022-04-11 15:08:59.425       lsvc   main    790  14874    3           anynet.main_relay_conn - Detected 2 new networks.
+   info 2022-04-11 15:08:59.427       lsvc   main    790  14874    2            anynet.connection_mgr - Main relay connection established.
+   info 2022-04-11 15:08:59.427       lsvc   main    790  14874    2            anynet.connection_mgr - New user data. Client-ID: 158907278.
+   info 2022-04-11 15:08:59.428      front   wrk1    786  14881                   anymessage.provider - License changed. Requesting messages update.
+   info 2022-04-11 15:08:59.450      front   wrk1    786  14881                   anymessage.provider - CID changed. Requesting messages update.
+   info 2022-04-11 15:08:59.675       lsvc   main    790  14874    1                    app.discovery - Starting.
+   info 2022-04-11 15:08:59.675       lsvc   main    790  14874    1                  fiber.scheduler - Spawning root fiber 15.
+   info 2022-04-11 15:08:59.676       lsvc   main    790  14874   15                    app.discovery - Current Discovery revision: 0
+   info 2022-04-11 15:08:59.685       lsvc   main    790  14874   15                    app.discovery - Joined multicast group 239.255.102.18:50001.
+   info 2022-04-11 15:08:59.685       lsvc   main    790  14874   15                    app.discovery - Bound to port: 50001
+   info 2022-04-11 15:08:59.685       lsvc   main    790  14874   15                anynet.udp_socket - Multicast loop option set to 0
+   info 2022-04-11 15:08:59.696       lsvc   main    790  14874   15                    app.discovery - Discovery fiber started.
+   info 2022-04-11 15:10:13.734       lsvc   main    790  14874    2            anynet.connection_mgr - Closing main relay connection.
+   info 2022-04-11 15:10:13.734       lsvc   main    790  14874                       fiber.scheduler - Fiber 2 requested quit of fiber 3.
+   info 2022-04-11 15:10:13.734       lsvc   main    790  14874    3           anynet.main_relay_conn - Main relay connection closed.
+   info 2022-04-11 15:10:13.735       lsvc   main    790  14874    3            anynet.connection_mgr - Forcing cleanup.
+   info 2022-04-11 15:10:13.735       lsvc   main    790  14874                       fiber.scheduler - Fiber 3 requested quit of fiber 14.
+   info 2022-04-11 15:10:13.735       lsvc   main    790  14874   14                      fiber.fiber - Received quit.
+   info 2022-04-11 15:10:13.735       lsvc   main    790  14874                       fiber.scheduler - Fiber 14 terminated.
+   info 2022-04-11 15:10:13.736       lsvc   main    790  14874                       fiber.scheduler - Fiber 3 requested quit of fiber 13.
+   info 2022-04-11 15:10:13.736       lsvc   main    790  14874   13                      fiber.fiber - Received quit.
+   info 2022-04-11 15:10:13.736       lsvc   main    790  14874                       fiber.scheduler - Fiber 13 terminated.
+   info 2022-04-11 15:10:13.737       lsvc   main    790  14874                       fiber.scheduler - Fiber 3 terminated.
+   info 2022-04-11 15:10:13.737       lsvc   main    790  14874    2            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2022-04-11 15:56:23.495       lsvc   main    790  14874    2            anynet.connection_mgr - Resuming main relay connection.
+   info 2022-04-11 15:56:23.495       lsvc   main    790  14874    2                  fiber.scheduler - Spawning root fiber 16.
+   info 2022-04-11 15:56:23.495       lsvc   main    790  14874   16           anynet.main_relay_conn - Starting main relay connection.
+   info 2022-04-11 15:56:23.497       lsvc   main    790  14874   16                  fiber.scheduler - Spawning child fiber 17 (parent 16).
+   info 2022-04-11 15:56:23.497       lsvc   main    790  14874   17           anynet.relay_connector - Relay connector started.
+   info 2022-04-11 15:56:23.497       lsvc   main    790  14874   17           anynet.relay_connector - Start proxy search.
+   info 2022-04-11 15:56:23.498       lsvc   main    790  14874   17           anynet.relay_connector - Connecting to relay relay-bcaadb4c.net.anydesk.com (1/2)
+   info 2022-04-11 15:56:23.498       lsvc   main    790  14874   17           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2022-04-11 15:56:23.498       lsvc   main    790  14874   17           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2022-04-11 15:56:23.498       lsvc   main    790  14874   17           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2022-04-11 15:56:23.574       lsvc   main    790  14874   17           anynet.relay_connector - Using IPv4: 5.9.71.93
+   info 2022-04-11 15:56:23.748       lsvc   main    790  14874   17                  fiber.scheduler - Spawning root fiber 18.
+   info 2022-04-11 15:56:24.090       lsvc   main    790  14874   17           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-04-11 15:56:24.100       lsvc   main    790  14874   17                  fiber.scheduler - Spawning root fiber 19.
+   info 2022-04-11 15:56:24.101       lsvc   main    790  14874   17                        handshake - Using protocol version 3.
+   info 2022-04-11 15:56:24.344       lsvc   main    790  14874   17           anynet.relay_connector - Connection established.
+   info 2022-04-11 15:56:24.344       lsvc   main    790  14874   17           anynet.relay_connector - Relay connector stopped.
+   info 2022-04-11 15:56:24.344       lsvc   main    790  14874                       fiber.scheduler - Fiber 17 terminated.
+   info 2022-04-11 15:56:24.345       lsvc   main    790  14874   16           anynet.main_relay_conn - Network ID: main
+   info 2022-04-11 15:56:24.345       lsvc   main    790  14874   16                anynet.relay_conn - External address: 183.82.177.120:6081.
+   info 2022-04-11 15:56:24.345       lsvc   main    790  14874   16           anynet.main_relay_conn - Main relay ID: bcaadb4c
+   info 2022-04-11 15:56:24.414       lsvc   main    790  14874    2            anynet.connection_mgr - Main relay connection established.
+   info 2022-04-11 15:56:24.414       lsvc   main    790  14874    2            anynet.connection_mgr - New user data. Client-ID: 158907278.
+   info 2022-04-11 15:57:50.765      front   main    786  14792                      mac_app.frontend - Sending a connection request for address 132374574.
+   info 2022-04-11 15:57:50.766      front   timr    786  18561          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-04-11 15:57:50.766      front   timr    786  18562          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-04-11 15:57:50.768       lsvc   main    790  14874    1                      app.service - New IPC connection.
+   info 2022-04-11 15:57:50.768       lsvc   main    790  14874    1                  fiber.scheduler - Spawning child fiber 20 (parent 1).
+   info 2022-04-11 15:57:50.768       lsvc   main    790  14874   20                      app.service - Creating an IPC accept socket.
+   info 2022-04-11 15:57:50.769       lsvc   main    790  14874   20                      app.service - Connected to 786 (frontend).
+   info 2022-04-11 15:57:50.872      front   main    786  14792                      mac_app.frontend - Session count: 1
+   info 2022-04-11 15:57:50.872      front   ctrl    786  14879                  app.frontend_session - Requesting session.
+   info 2022-04-11 15:57:50.873       lsvc   main    790  14874   20                      app.session - Session features: deskrt, clipboard, chat, audio, input, tcp_tunnel.
+   info 2022-04-11 15:57:50.873       lsvc   main    790  14874   20                      app.service - Creating remote control session.
+   info 2022-04-11 15:57:50.873       lsvc   main    790  14874   20         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2022-04-11 15:57:50.873       lsvc   main    790  14874   20                anynet.any_socket - Keepalive is disabled
+   info 2022-04-11 15:57:50.873       lsvc   main    790  14874   20                      app.session - 1: Connecting to "132374574"
+   info 2022-04-11 15:57:50.873       lsvc   main    790  14874   20                  fiber.scheduler - Spawning root fiber 21.
+   info 2022-04-11 15:57:50.873       lsvc   main    790  14874   21                anynet.any_socket - Connect fiber spawned.
+   info 2022-04-11 15:57:50.873       lsvc   main    790  14874   21                anynet.any_socket - Connecting to 132374574.
+   info 2022-04-11 15:57:50.873       lsvc   main    790  14874   21                anynet.any_socket - Retrieving client information.
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   21                anynet.any_socket - Client-ID: 132374574 (FPR: 0e214613649b).
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   21                anynet.any_socket - Logged in from 27.5.100.89:49672 on relay ca74c75b.
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   21            anynet.connection_mgr - Making a new connection to client 0e214613649b1f026160ac572853ef7872bd5ee8.
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   21                  fiber.scheduler - Spawning root fiber 22.
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   21                anynet.any_socket - Sending a connect request (on the clients relay).
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   21            anynet.connection_mgr - Making a new connection to relay ca74c75b.
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   21                  fiber.scheduler - Spawning root fiber 23.
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   21                      anynet.conn - Request before connect. Queueing.
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   22                  fiber.scheduler - Spawning child fiber 24 (parent 22).
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   23                  fiber.scheduler - Spawning child fiber 25 (parent 23).
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   25           anynet.relay_connector - Relay connector started.
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   25           anynet.relay_connector - Start proxy search.
+   info 2022-04-11 15:57:51.055       lsvc   main    790  14874   25           anynet.relay_connector - Connecting to relay relay-ca74c75b.net.anydesk.com (1/1)
+   info 2022-04-11 15:57:51.062       lsvc   main    790  14874   25           anynet.relay_connector - Using IPv4: 138.199.14.87
+   info 2022-04-11 15:57:51.188       lsvc   main    790  14874   25                  fiber.scheduler - Spawning root fiber 26.
+   info 2022-04-11 15:57:51.453       lsvc   main    790  14874   25           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2022-04-11 15:57:51.454       lsvc   main    790  14874   25                  fiber.scheduler - Spawning root fiber 27.
+   info 2022-04-11 15:57:51.454       lsvc   main    790  14874   25                        handshake - Using protocol version 3.
+   info 2022-04-11 15:57:51.716       lsvc   main    790  14874   25           anynet.relay_connector - Connection established.
+   info 2022-04-11 15:57:51.716       lsvc   main    790  14874   25           anynet.relay_connector - Relay connector stopped.
+   info 2022-04-11 15:57:51.716       lsvc   main    790  14874                       fiber.scheduler - Fiber 25 terminated.
+   info 2022-04-11 15:57:51.716       lsvc   main    790  14874   23                anynet.relay_conn - External address: 183.82.177.120:6122.
+   info 2022-04-11 15:57:51.716       lsvc   main    790  14874   23           anynet.supp_relay_conn - Relay ID: ca74c75b
+   info 2022-04-11 15:57:51.717       lsvc   main    790  14874   23                anynet.relay_conn - Punch socket set up on port 49546.
+   info 2022-04-11 15:57:51.717       lsvc   main    790  14874    2            anynet.connection_mgr - Supplementary relay connection to ca74c75b established.
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   21                anynet.any_socket - Connect request accepted, tunnel route created.
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   21                anynet.any_socket - Local vport: 10, Remote vport: 10, SID: 1649633993896941
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   21                anynet.any_socket - Sending 0 queued blobs.
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   21                anynet.any_socket - Initiating the managed connection.
+warning 2022-04-11 15:57:52.376       lsvc   main    790  14874   21                anynet.any_socket - Unexpected: connect_msg_t.
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   24           anynet.punch_connector - Spawning fibers for 3 potential connect addresses.
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   24           anynet.punch_connector - -> Spawning: 192.168.1.6:7070 (0).
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   24                  fiber.scheduler - Spawning child fiber 28 (parent 24).
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   24           anynet.punch_connector - -> Spawning: 27.5.100.89:49672 (1).
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   24                  fiber.scheduler - Spawning child fiber 29 (parent 24).
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   24           anynet.punch_connector - -> Spawning: 27.5.100.89:7070 (2).
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   24                  fiber.scheduler - Spawning child fiber 30 (parent 24).
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   20                      app.session - 1: Net connection established.
+   info 2022-04-11 15:57:52.376       lsvc   main    790  14874   20                      app.session - 2: Requesting a session.
+   info 2022-04-11 15:57:52.378       lsvc   main    790  14874   28           anynet.punch_connector - [192.168.1.6:7070] Connecting
+   info 2022-04-11 15:57:52.378       lsvc   main    790  14874   29           anynet.punch_connector - [27.5.100.89:49672] Connecting (lport 49546, attempt 0).
+   info 2022-04-11 15:57:52.378       lsvc   main    790  14874   30           anynet.punch_connector - [27.5.100.89:7070] Connecting
+   info 2022-04-11 15:57:52.388       lsvc   main    790  14874   30           anynet.punch_connector - [27.5.100.89:7070] Connection failed (errno_0)).
+   info 2022-04-11 15:57:52.388       lsvc   main    790  14874                       fiber.scheduler - Fiber 30 terminated.
+   info 2022-04-11 15:57:52.391       lsvc   main    790  14874   29                  fiber.scheduler - Spawning root fiber 31.
+   info 2022-04-11 15:57:52.575       lsvc   main    790  14874   29                  fiber.scheduler - Spawning root fiber 32.
+   info 2022-04-11 15:57:52.575       lsvc   main    790  14874   29                        handshake - Using protocol version 1.
+   info 2022-04-11 15:57:52.575       lsvc   main    790  14874   29           anynet.punch_connector - [27.5.100.89:49672] Fingerprint verified.
+   info 2022-04-11 15:57:52.575       lsvc   main    790  14874                       fiber.scheduler - Fiber 29 terminated.
+   info 2022-04-11 15:57:52.575       lsvc   main    790  14874   24           anynet.punch_connector - [27.5.100.89:49672] Connection selected.
+   info 2022-04-11 15:57:52.575       lsvc   main    790  14874                       fiber.scheduler - Fiber 24 requested quit of fiber 28.
+   info 2022-04-11 15:57:52.575       lsvc   main    790  14874   28           anynet.punch_connector - [192.168.1.6:7070] Connection failed (result_quit)).
+   info 2022-04-11 15:57:52.576       lsvc   main    790  14874                       fiber.scheduler - Fiber 28 terminated.
+   info 2022-04-11 15:57:52.576       lsvc   main    790  14874                       fiber.scheduler - Fiber 24 terminated.
+   info 2022-04-11 15:57:52.576       lsvc   main    790  14874   22       anynet.managed_client_conn - Connection established.
+   info 2022-04-11 15:57:52.576       lsvc   main    790  14874    2            anynet.connection_mgr - Managed client connection with 0e214613649b1f026160ac572853ef7872bd5ee8 established.
+   info 2022-04-11 15:57:52.576       lsvc   main    790  14874   21                anynet.any_socket - Direct connection is available.
+   info 2022-04-11 15:57:52.576       lsvc   main    790  14874   21                anynet.any_socket - Connection switch started.
+   info 2022-04-11 15:57:52.710       lsvc   main    790  14874   21                anynet.any_socket - Connection switch acknowledged.
+   info 2022-04-11 15:57:52.733       lsvc   main    790  14874   21                anynet.any_socket - Connection switch completed.
+   info 2022-04-11 15:57:52.734       lsvc   main    790  14874   21                anynet.any_socket - Sending 0 queued blobs.
+   info 2022-04-11 15:57:54.007       lsvc   main    790  14874   20                      app.session - Using protocol version 4.
+   info 2022-04-11 15:57:54.007       lsvc   main    790  14874   20                      app.session - 2: Session acknowledged.
+   info 2022-04-11 15:57:54.008       lsvc   main    790  14874   20                      app.session - 3: Authentication.
+   info 2022-04-11 15:57:54.008       lsvc   main    790  14874   20                      app.session - Forwarding wait for accept challenge (0).
+   info 2022-04-11 15:57:54.008      front   wrk1    786  14881                  app.frontend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split, 40
+   info 2022-04-11 15:57:54.008      front   wrk2    786  14882                  app.frontend_session - Received wait for accept request.
+   info 2022-04-11 15:57:54.008      front   wrk1    786  14881                  app.frontend_session - Remote OS: Windows
+   info 2022-04-11 15:57:54.008      front   wrk1    786  14881                  app.frontend_session - Connection flags: direct paid 3 
+   info 2022-04-11 15:57:54.008      front   wrk1    786  14881                  app.frontend_session - Remote version: 7.0.7
+warning 2022-04-11 15:57:54.009      front   wrk2    786  14882                  app.frontend_session - Remote asked for a volatile token, but we have none.
+   info 2022-04-11 15:57:58.217       lsvc   main    790  14874   20                      app.session - 3: Session granted.
+   info 2022-04-11 15:57:58.218       lsvc   main    790  14874   20                      app.session - 4: Waiting for the frontend to be ready.
+   info 2022-04-11 15:57:58.218      front   ctrl    786  14879                  app.frontend_session - Starting connect session.
+   info 2022-04-11 15:57:58.226      front   ctrl    786  14879                          memory_arena - Reserving arena of 256 MB
+   info 2022-04-11 15:57:58.226      front   ctrl    786  14879                          memory_arena - Reserving arena of 128 MB
+   info 2022-04-11 15:57:58.228      front   ctrl    786  14879             desk_rt.display_component - Startup.
+   info 2022-04-11 15:57:58.229      front   ctrl    786  14879                      app.clipbrd_comp - Engaging clipboard.
+   info 2022-04-11 15:57:58.229      front   ctrl    786  14879                      app.clipbrd_comp - Ready.
+   info 2022-04-11 15:57:58.233      front   ctrl    786  14879                  app.frontend_session - Session started.
+   info 2022-04-11 15:57:58.234       lsvc   main    790  14874   20                      app.session - 4: Frontend ready.
+   info 2022-04-11 15:57:58.234       lsvc   main    790  14874   20                      app.session - 5: Entering processing loop.
+   info 2022-04-11 15:57:58.234       lsvc   main    790  14874   20         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2022-04-11 15:57:58.234       lsvc   main    790  14874   20         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2022-04-11 15:57:58.235      front   wrk1    786  14881                  app.frontend_session - Received new remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split, 40
+   info 2022-04-11 15:57:58.252      front   wrk1    786  14881                  app.frontend_session - Keyboard layouts differ (l:unknown != r:unknown). Auto-mode is Translate, user-mode is 0.
+   info 2022-04-11 15:57:58.252      front   wrk0    786  14880             desk_rt.display_component - Received monitor info. Monitor count: 1.
+   info 2022-04-11 15:57:58.253      front   main    786  14792                  app.frontend_session - Remote privacy state: off (no change).
+   info 2022-04-11 15:57:58.254      front   wrk0    786  14880                                glwrap - Initializing OpenGL: 2.1 Metal - 71.7.1
+   info 2022-04-11 15:57:58.256      front   wrk1    786  14881                  app.frontend_session - Received new input permissions: (enabled allowed supported)
+   info 2022-04-11 15:57:58.256      front   wrk1    786  14881                  app.frontend_session - Received new audio permissions: (enabled allowed supported)
+   info 2022-04-11 15:57:58.256      front   wrk1    786  14881                  app.frontend_session - Received new clipboard permissions: (enabled allowed supported)
+   info 2022-04-11 15:57:58.256      front   wrk1    786  14881                  app.frontend_session - Received new permissions to block input: (allowed supported)
+   info 2022-04-11 15:57:58.256      front   wrk1    786  14881                  app.frontend_session - Received new sas permissions: (allowed supported)
+   info 2022-04-11 15:57:58.256      front   wrk1    786  14881                  app.frontend_session - Received new file manager permissions: (enabled allowed supported)
+   info 2022-04-11 15:57:58.256      front   wrk1    786  14881                  app.frontend_session - Received new permissions to lock account: (allowed supported)
+   info 2022-04-11 15:57:58.256      front   wrk1    786  14881                  app.frontend_session - Received new record session permissions: (allowed supported)
+   info 2022-04-11 15:57:58.256      front   wrk1    786  14881                  app.frontend_session - Received new whiteboard permissions: (allowed supported)
+   info 2022-04-11 15:57:58.257      front   wrk1    786  14881                  app.frontend_session - Received new TCP tunneling permissions: (enabled forbidden supported)
+   info 2022-04-11 15:57:58.257      front   wrk1    786  14881                  app.frontend_session - Received new VPN permissions: (enabled forbidden unsupported)
+   info 2022-04-11 15:57:58.257      front   wrk1    786  14881                  app.frontend_session - Received new privacy feature permissions: (forbidden supported)
+   info 2022-04-11 15:57:58.257      front   wrk1    786  14881                  app.frontend_session - Received new clipboard files permissions: (enabled allowed supported)
+   info 2022-04-11 15:57:58.257      front   wrk1    786  14881                  app.frontend_session - Received new permission to restart: (allowed supported)
+   info 2022-04-11 15:57:58.257      front   wrk1    786  14881                  app.frontend_session - Received new permission to sysinfo: (enabled allowed supported)
+   info 2022-04-11 15:57:58.257      front   wrk1    786  14881                  app.frontend_session - Received new permission to mouse_pointer: (allowed supported)
+   info 2022-04-11 15:57:58.304      front   wrk1    786  14881             desk_rt.display_component - Remote resolution changed: Monitor 0 (1366x768)
+   info 2022-04-11 15:57:58.305      front   wrk1    786  14881                  desk_rt.gl_view.port - Created back texture 1366x768
+   info 2022-04-11 15:57:58.305      front   wrk1    786  14881                  desk_rt.gl_view.port - Initialized (1366x768, X8R8G8B8).
+   info 2022-04-11 15:57:58.378      front   wrk0    786  14880                  app.frontend_session - Requesting a new thumbnail.
+   info 2022-04-11 15:57:58.378      front   wrk0    786  14880             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.fwd.local.132374574.
+   info 2022-04-11 15:57:58.378      front   wrk0    786  14880             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.bwd.local.132374574.
+   info 2022-04-11 15:57:58.378       lsvc   main    790  14874   20            app.tcp_tunnel.config - deserialized rules 2
+   info 2022-04-11 15:57:58.378       lsvc   main    790  14874   20            app.tcp_tunnel.config - Forward rules:
+   info 2022-04-11 15:57:58.665      front   wrk1    786  14881                  app.frontend_session - Updated the thumbnail.
+   info 2022-04-11 16:10:34.279      front   wrk1    786  14881                      app.clipbrd_comp - Got a text offer (1082 b).
+   info 2022-04-11 16:11:07.277      front   wrk1    786  14881                      app.clipbrd_comp - Got a text offer (34 b).
+   info 2022-04-11 16:15:21.074      front   wrk1    786  14881                      app.clipbrd_comp - Got a text offer (1004 b).
+   info 2022-04-11 16:16:28.284      front   wrk1    786  14881                   audio.device_render - Starting render, queue full.
+   info 2022-04-11 16:50:55.724      front   wrk1    786  14881                      app.clipbrd_comp - Got a text offer (56 b).
+   info 2022-04-11 16:57:47.560      front   main    786  14792                  app.frontend_session - The user has requested a connection quit.
+   info 2022-04-11 16:57:47.564      front   ctrl    786  14879                  app.frontend_session - Stopping session.
+   info 2022-04-11 16:57:47.662      front   ctrl    786  14879             desk_rt.display_component - Stopping objects.
+   info 2022-04-11 16:57:47.676      front   ctrl    786  14879                      app.clipbrd_comp - Closing clipboard.
+   info 2022-04-11 16:57:47.676      front   ctrl    786  14879                      app.clipbrd_comp - Clipboard closed.
+   info 2022-04-11 16:57:47.676      front   ctrl    786  14879                  app.frontend_session - Session stopped.
+   info 2022-04-11 16:57:47.676       lsvc   main    790  14874   20                      app.session - IPC socket closed normally.
+   info 2022-04-11 16:57:47.676       lsvc   main    790  14874   20                      app.session - 5: Processing done.
+   info 2022-04-11 16:57:47.676       lsvc   main    790  14874                       fiber.scheduler - Fiber 20 requested quit of fiber 21.
+   info 2022-04-11 16:57:47.676       lsvc   main    790  14874   21                anynet.any_socket - Received quit.
+   info 2022-04-11 16:57:47.676       lsvc   main    790  14874   21                anynet.any_socket - Connect fiber stopped.
+   info 2022-04-11 16:57:47.676       lsvc   main    790  14874                       fiber.scheduler - Fiber 21 terminated.
+   info 2022-04-11 16:57:47.677       lsvc   main    790  14874    2            anynet.connection_mgr - Scheduling cleanup in 30 seconds.
+   info 2022-04-11 16:57:47.677       lsvc   main    790  14874    2            anynet.connection_mgr - Scheduling cleanup in 30 seconds.
+   info 2022-04-11 16:57:47.677       lsvc   main    790  14874   20                      app.service - Fiber exit (ipc).
+   info 2022-04-11 16:57:47.677       lsvc   main    790  14874                       fiber.scheduler - Fiber 20 terminated.
+   info 2022-04-11 16:57:47.677      front   ctrl    786  14879                      mac_app.frontend - Session count: 0
+   info 2022-04-11 16:57:47.677      front   main    786  14792                          app.frontend - Stopping to monitor client 132374574.
+   info 2022-04-11 16:57:47.677      front   main    786  14792                  app.frontend_session - Deleting session.
+   info 2022-04-11 16:57:47.677       lsvc   main    790  14874    9                      app.service - Stop monitoring 132374574.
+   info 2022-04-11 16:57:47.677      front   main    786  14792                     gui.display_panel - Deleting.
+   info 2022-04-11 16:57:47.677      front   main    786  14792                      mac_app.frontend - restoring sleep for frontend user
+   info 2022-04-11 16:57:47.677      front   main    786  14792                  desk_rt.gl_view.port - Deleted
+   info 2022-04-11 16:57:47.677      front   main    786  14792                          desk_rt.view - View deleted.
+   info 2022-04-11 16:57:47.677      front   main    786  14792              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2022-04-11 16:57:47.677      front   timr    786  18562          base.signal.local.timer_impl - Timer wants to quit.
+   info 2022-04-11 16:57:47.677      front   timr    786  18561          base.signal.local.timer_impl - Timer wants to quit.
+warning 2022-04-11 16:57:47.706       lsvc   main    790  14874   22                      anynet.conn - Received data on invalid vport 10.
+  error 2022-04-11 16:57:47.706       lsvc   main    790  14874   22         base.prot.packet_factory - Invalid packet received (type=13, 3 bytes).
+  error 2022-04-11 16:57:47.706       lsvc   main    790  14874   22       anynet.managed_client_conn - Unhandled message: packet_msg_t.
+  error 2022-04-11 16:57:50.462      front   main    786  14792         mac_app.helper_tool_interface - Global files not found.
+   info 2022-04-11 16:57:50.462      front   main    786  14792               gui.request_permissions - Accessibility permission: 0
+   info 2022-04-11 16:57:50.462      front   main    786  14792               gui.request_permissions - Screen Recording permission: 0
+   info 2022-04-11 16:57:51.007       lsvc   main    790  14874    9                  fiber.scheduler - Spawning root fiber 33.
+   info 2022-04-11 16:57:51.008       lsvc   main    790  14874   33               app.online_monitor - Online state monitor started.
+   info 2022-04-11 16:57:55.820       lsvc   main    790  14874                       fiber.scheduler - Fiber 9 requested quit of fiber 33.
+   info 2022-04-11 16:57:55.820       lsvc   main    790  14874   33               app.online_monitor - Online state monitor stopped.
+   info 2022-04-11 16:57:55.820       lsvc   main    790  14874                       fiber.scheduler - Fiber 33 terminated.
+   info 2022-04-11 16:58:08.899      front   main    786  14792                           AppDelegate - Nothing detected (0).
+   info 2022-04-11 16:58:08.902      front   main    786  14792                      mac_app.frontend - Terminating the service
+   info 2022-04-11 16:58:08.902      front   ctrl    786  14879                      mac_app.frontend - Frontend shutdown.
+   info 2022-04-11 16:58:08.902       lsvc   main    790  14874    1                      app.service - Process stop: 786.
+   info 2022-04-11 16:58:08.902       lsvc   main    790  14874    1           anynet.relay_connector - Short timeouts disabled.
+   info 2022-04-11 16:58:08.902       lsvc   main    790  14874    9                      app.service - Terminating the service.
+   info 2022-04-11 16:58:08.902       lsvc   main    790  14874    9                  fiber.scheduler - Quitting scheduler (0).
+   info 2022-04-11 16:58:08.902       lsvc   main    790  14874                       fiber.scheduler - Quitting all fibers.
+   info 2022-04-11 16:58:08.902       lsvc   main    790  14874    1                      app.service - Service shutdown.
+   info 2022-04-11 16:58:08.902       lsvc   main    790  14874    1                    app.discovery - Stopping.
+   info 2022-04-11 16:58:08.902       lsvc   main    790  14874                       fiber.scheduler - Fiber 1 requested quit of fiber 15.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874    4              anynet.tcp_acceptor - Received quit.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874                       fiber.scheduler - Fiber 4 terminated.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874    5                anynet.any_socket - Listen fiber stopped.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874                       fiber.scheduler - Fiber 5 terminated.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874   15                    app.discovery - Left multicast group 239.255.102.18:50001.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874   15                    app.discovery - Discovery fiber stopped.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874                       fiber.scheduler - Fiber 15 terminated.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874                       fiber.scheduler - Fiber 2 terminated.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874   16           anynet.main_relay_conn - Main relay connection closed.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874   16            anynet.connection_mgr - Forcing cleanup.
+   info 2022-04-11 16:58:08.903       lsvc   main    790  14874                       fiber.scheduler - Fiber 16 requested quit of fiber 19.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874   18                      fiber.fiber - Received quit.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 18 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874   19                      fiber.fiber - Received quit.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 19 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874   22       anynet.managed_client_conn - Managed client connection stopped.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874   22            anynet.connection_mgr - Forcing cleanup.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 22 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874   23           anynet.supp_relay_conn - Supplementary relay connection stopped.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874   23            anynet.connection_mgr - Forcing cleanup.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 23 requested quit of fiber 27.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874   26                      fiber.fiber - Received quit.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 26 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874   27                      fiber.fiber - Received quit.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 27 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874   31                      fiber.fiber - Received quit.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 31 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874   32                      fiber.fiber - Received quit.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 32 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 16 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 23 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 6 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 7 terminated.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 1 requested quit of fiber 9.
+   info 2022-04-11 16:58:08.904       lsvc   main    790  14874                       fiber.scheduler - Fiber 9 requested quit of fiber 10.
+   info 2022-04-11 16:58:08.905       lsvc   main    790  14874   10                      fiber.fiber - Received quit.
+   info 2022-04-11 16:58:08.905       lsvc   main    790  14874                       fiber.scheduler - Fiber 10 terminated.
+   info 2022-04-11 16:58:10.694       lsvc   main    790  14874    9                      app.service - Fiber exit (ipc).
+   info 2022-04-11 16:58:10.695       lsvc   main    790  14874                       fiber.scheduler - Fiber 9 terminated.
+   info 2022-04-11 16:58:10.695       lsvc   main    790  14874    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2022-04-11 16:58:10.695       lsvc   main    790  14874    1                  fiber.scheduler - Quitting scheduler (0).
+   info 2022-04-11 16:58:10.695       lsvc   main    790  14874                       fiber.scheduler - Fiber 1 terminated.
+   info 2022-04-11 16:58:10.695       lsvc   main    790  14874                       fiber.scheduler - All fibers terminated.
+   info 2022-04-11 16:58:10.696       lsvc   main    790  14874                       fiber.scheduler - Scheduler stopped (0).
+   info 2022-04-11 16:58:10.696       lsvc   main    790  14874                      main.run_service - Exiting
